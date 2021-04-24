@@ -1,6 +1,8 @@
-import 'file:///C:/Users/gabgm/IdeaProjects/eco_compra/lib/core/eco_theme.dart';
+
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+
+import '../core/eco_theme.dart';
 
 class SplashPage extends StatelessWidget {
   @override

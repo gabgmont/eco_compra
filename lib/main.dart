@@ -1,10 +1,11 @@
+import 'package:eco_compra/core/criandowiget.dart';
 import 'package:flutter/material.dart';
 
 import 'home/home_page.dart';
 import 'splash/splash_page.dart';
 
 void main() {
-  runApp(MainApp());
+  runApp(MarketPlace());
 }
 
 class MainApp extends StatelessWidget{
